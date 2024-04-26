@@ -1,0 +1,23 @@
+body
+{
+    background-color:navajowhite;
+}
+
+.app
+{
+    width:30%;
+    border:solid black;
+    margin:50px;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+}
+
+.box
+{
+    height:120px;
+    width:20%;
+    justify-content:center;
+    align-items:center;
+    display:flex;
+}
